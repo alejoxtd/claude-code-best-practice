@@ -50,3 +50,20 @@
 |---|----------|------|--------|--------|
 | 1 | HIGH | Add | Added addyosmani/agent-skills (27k stars / 21 SKILL.md files) at row 4, between wshobson/agents (35k) and scientific-agent-skills (20k); user-requested manual addition | COMPLETE (inserted into SKILL COLLECTIONS table) |
 | 2 | LOW | Note | Repo is dual-classified — also added to DEVELOPMENT WORKFLOWS table because it ships a full /spec → /plan → /build → /test → /review → /ship lifecycle, not just a SKILL.md library | COMPLETE (cross-referenced) |
+
+---
+
+## [2026-05-12 11:40 PM PKT] Skill Collections Update
+
+| # | Priority | Type | Action | Status |
+|---|----------|------|--------|--------|
+| 1 | HIGH | Star | Update anthropics/skills ★ from 127k to 133k (132,946 exact) | NEW |
+| 2 | HIGH | Star | Update mattpocock/skills ★ from 51k to 76k (75,562 exact — +25k surge over ~11 days, second consecutive amplification event) | RECURRING (similar +15k surge logged 2026-05-01) |
+| 3 | MEDIUM | Count | Update mattpocock/skills active skills from 18 to 24 (added handoff 2026-05-11, review 2026-05-10, plus engineering/in-progress additions; 4 deprecated unchanged) | NEW |
+| 4 | LOW | Count | Update wshobson/agents skill count from 152 to 153 (README count synchronized 2026-05-09 commit) | NEW |
+| 5 | LOW | Star | Update K-Dense-AI/scientific-agent-skills ★ from 20k to 21k (20,758 exact) | NEW |
+| 6 | LOW | Count | Update K-Dense-AI/scientific-agent-skills count from 134 to 135 (added exa-search 2026-05-06 PR #143, autoskill 2026-05-03 PR #141) | NEW |
+| 7 | MEDIUM | Star | Update VoltAgent/awesome-agent-skills ★ from 20k to 21k (21,417 exact — surpassed K-Dense-AI in star count) | NEW |
+| 8 | MEDIUM | Count | Update VoltAgent/awesome-agent-skills curated count from 930+ to 1,100+ (reverts to README badge as source; prior 930+ was conservative bullet parse) | RECURRING (count source method debated 2026-04-29) |
+| 9 | HIGH | Sort | Swap row 5 (K-Dense-AI 20,758) with row 6 (VoltAgent 21,417) — VoltAgent moves up due to ~660 star lead | NEW |
+| 10 | LOW | No Change | addyosmani/agent-skills (27k/21) untouched — out of standard 5-repo research scope, awaiting separate review | COMPLETE (verified, manual entry preserved) |
